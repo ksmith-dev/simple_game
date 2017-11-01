@@ -1,9 +1,7 @@
 package SimpleGame;
 
-import org.junit.Test;
-
 import static org.junit.Assert.*;
 
-public class CellTest
+public class SimpleGameBoardTest
 {
 }
